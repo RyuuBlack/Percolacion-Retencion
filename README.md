@@ -10,9 +10,3 @@ Simulación de la retención de aguas de un suelo, a partir de la teoría de per
 La simulación termina sola, se demora en cerrar la ventana
 por que al terminar la simulación hace el gif con las imagenes
 guardadas.
-
-
-
-
-hola
-hola
