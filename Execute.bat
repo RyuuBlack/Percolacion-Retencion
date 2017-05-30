@@ -1,0 +1,2 @@
+python Principal.py
+pause
