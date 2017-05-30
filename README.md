@@ -1,7 +1,7 @@
 # Retención de aguas por percolación
 Simulación de la retención de aguas de un suelo, a partir de la teoría de percolación.
 
-# Capacidad de retencion de agua
+# Capacidad de retención de agua
 + 0.33 bar - 33 kPa
 
 # Instalar
